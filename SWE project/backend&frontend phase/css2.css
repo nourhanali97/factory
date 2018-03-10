@@ -9,3 +9,15 @@
 	bottom: 3.5%;
 	word-spacing:4px;
 }
+
+#SEA
+	{
+	position:fixed;
+	background:white;
+	border: solid;
+    padding: 25px;
+    text-align: center;
+	left: 40%;
+	bottom: 50%;
+	word-spacing:4px;
+}
